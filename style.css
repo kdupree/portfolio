@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+  background-image: url('https://images.pexels.com/photos/1006202/pexels-photo-1006202.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940" alt="african american woman, beautiful, beauty"/>');
+  background-size: cover;
+}
+
+#banner {
+  padding-top: 22%;
+  font-family: 'Titan One', sans-serif;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  color: #800040;
+}
+
+#heading {
+  height: 100%;
+  font-family: 'Titan One', cursive;
+  display: flex;
+  justify-content: space-around;
+  color: #800040;
+}
+
+h2 {
+  background-color: pink;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: pink;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #9370DB;
+}
+
+.navbar a:hover {
+  color: white;
+  background: #9370DB;
+}
+
+#about-content{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 22%;
+}
+
+img {
+  border-radius: 25%;
+  border: solid 5px #FB607F;
+}
+
+.my-description {
+  background: white;
+  margin: 3%;
+  padding: 4%;
+  font-family: 'Titan One', cursive;
+}
+
+.project-container {
+  margin-top: 20%;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: space-between;
+  border-radius: 15%;
+  color: #FB607F;
+}
+
+span {
+  background: #AD4C60;
+  margin: 2%;
+  padding: 2%;
+  font-family: 'Titan One', cursive;
+  color: #D96079;
+  align-items: center;
+  border-radius: 12%; 
+}
+
+span a{
+  color: #FB607F;
+}
+
+p {
+  color: #FB607F;
+}
+
+.featurepage {
+  margin: 2%;
+  padding: 1%;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #8D3E5E;
+  background: pink;
+  text-align: center;
+}
+
+.feature-content {
+  margin-top: 10%;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
